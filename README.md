@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is old code that worked once, circa 2016, but works no longer. Keeping it here for archival purposes. Original text below.
+This is old code that worked once, circa 2016, but works no longer. Keeping it here for archival purposes, as the most popular repo I created. Original text below.
 
 This standup bot is meant to be used with teams. It can be used as a 'virtual standup' bot, either to supplement or replace regular standups.
 
