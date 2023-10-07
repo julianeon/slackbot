@@ -1,5 +1,7 @@
 ## Synopsis
 
+This is old code that worked once, circa 2015, but works no longer. Keeping it here for archival purposes. Original text below.
+
 This standup bot is meant to be used with teams. It can be used as a 'virtual standup' bot, either to supplement or replace regular standups.
 
 The bot goes through the users listed sequentially. If a user takes longer than the MAXIMUM_WAIT_TIME, it skips them. All the user updates are collated and printed to the designated room as the standup update. The time between the time you start the bot and the update to the room, then, depends roughly on how long people take to respond. Generally, for 3-4 few users, it will take 10-15 mins before the update hits the room.
@@ -16,9 +18,9 @@ Add those ID's to the slack.yaml file using the format shown there, and the bot 
 
 I usually run my bot script as a cronjob.
 
-## Motivation
+## Purpose
 
-This is meant to be a template that other people can adapt and use to build their own bots.
+This is meant to be used as a template for other people to adapt and use to build their own bots.
 
 ## Installation
 
@@ -32,30 +34,7 @@ Install yaml using:
 
 pip install pyyaml
 
-## Contributors
-
-Created by Julian Martinez. Email questions or comments to julianeon@yahoo.com.
-
 ## License
 
-The MIT License
+MIT License
 
-Copyright (c) 2016 Julian Martinez julianeon@yahoo.com
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
