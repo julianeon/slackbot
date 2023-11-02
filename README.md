@@ -1,6 +1,6 @@
 ## Python Slackbot
 
-This is old code that worked circa 2016 but works no longer. I keep it here for archival purposes & to show Python code I wrote. It's the most popular repo I've created. My other recent Python repo is [useful-python-scripts](https://github.com/julianeon/useful-python-scripts).
+This is old code that worked circa 2016 but works no longer. I keep it here for archival purposes & to show Python code I wrote. It's the most popular repo I've created. My most recent Python repo is [useful-python-scripts](https://github.com/julianeon/useful-python-scripts).
 
 Original text below.
 
