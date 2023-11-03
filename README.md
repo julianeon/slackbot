@@ -38,5 +38,5 @@ Install yaml using:
 
 ## License
 
-MIT License
+Released under the MIT License.
 
